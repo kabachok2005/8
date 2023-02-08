@@ -1,0 +1,5 @@
+C:\Users\klika\source\repos\misha8\misha8\obj\Debug\net6.0\misha8.csproj.AssemblyReference.cache
+C:\Users\klika\source\repos\misha8\misha8\obj\Debug\net6.0\misha8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klika\source\repos\misha8\misha8\obj\Debug\net6.0\misha8.AssemblyInfoInputs.cache
+C:\Users\klika\source\repos\misha8\misha8\obj\Debug\net6.0\misha8.AssemblyInfo.cs
+C:\Users\klika\source\repos\misha8\misha8\obj\Debug\net6.0\misha8.csproj.CoreCompileInputs.cache
